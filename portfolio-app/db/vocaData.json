@@ -1,0 +1,73 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    },
+    {
+      "day": 8,
+      "id": 8
+    }
+  ],
+  "vocas": [
+    {
+      "id": 4,
+      "kor": "딸기",
+      "eng": "strawberry",
+      "day": 2,
+      "done": false
+    },
+    {
+      "id": 6,
+      "kor": "화성",
+      "eng": "mars",
+      "day": 3,
+      "done": true
+    },
+    {
+      "id": 7,
+      "kor": "강아지",
+      "eng": "puppy",
+      "day": 1,
+      "done": false
+    },
+    {
+      "id": 9,
+      "kor": "겨울",
+      "eng": "winter",
+      "day": "4",
+      "done": false
+    },
+    {
+      "id": 10,
+      "kor": "태양",
+      "eng": "sub",
+      "day": "1",
+      "done": false
+    }
+  ]
+}
