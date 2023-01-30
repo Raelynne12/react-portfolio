@@ -41,7 +41,7 @@ const List = styled.li`
   }
   list-style: none;
   width: calc(50%-20px);
-  margin: 150px 10px 0 10px;
+  margin: 150px 90px 0 90px;
   a {
     display: flex;
     background-color: rgba(255, 255, 255);
@@ -56,15 +56,16 @@ const List = styled.li`
     }
     .img-box {
       margin-top: -100px;
-      border: 7px solid #fff;
+      border: 5px solid #fff;
       position: relative;
+      height: 100%;
       box-shadow: 20px 10px 10px rgba(0, 0, 0, 0.3);
       p {
         color: #fff;
       }
       img {
         vertical-align: top;
-        width: 380px;
+        width: 250px;
       }
       .point {
         position: absolute;
@@ -74,42 +75,44 @@ const List = styled.li`
         color: #fff;
         border-radius: 50px;
         display: flex;
-        font-size: 20px;
+        font-size: 15px;
         font-weight: bold;
         justify-content: center;
         align-items: center;
-        width: 85px;
-        height: 85px;
-        border: 4px solid #fff;
+        width: 55px;
+        height: 55px;
+        border: 2px solid #fff;
       }
     }
     .info {
       margin-left: 30px;
     }
     .title-box {
-      font-size: 30px;
+      font-size: 20px;
       .original-title {
         font-family: PuradakGentleGothicR;
+        border-bottom: 5px dotted rgb(114, 114, 114);
         padding-bottom: 10px;
+      }
+      h3 {
         font-family: Cafe24ClassicType-Regular;
-        font-size: 50px;
+        font-size: 30px;
         font-weight: bold;
         margin-bottom: 20px;
         margin-top: 15px;
-
-        border-bottom: 7px dotted #000;
       }
       .open-date {
         font-family: PuradakGentleGothicR;
         margin: 10px 0;
         margin-bottom: 20px;
+        font-size: 13px;
       }
     }
     .overview-box {
       margin-top: 40px;
-      margin-bottom: 20px;
+      margin-bottom: 15px;
       font-family: Chosunilbo_myungjo;
-      font-size: 30px;
+      font-size: 15px;
       line-height: 1.5;
       .overview {
         margin-top: 5px;
@@ -122,7 +125,7 @@ const List = styled.li`
         background-color: rgb(34, 34, 34);
         color: #fff;
         border-radius: 15px;
-        font-size: 25px;
+        font-size: 15px;
       }
     }
   }

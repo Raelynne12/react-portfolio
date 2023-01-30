@@ -47,18 +47,31 @@ const Container = styled.div`
   color: #fff;
   justify-content: center;
   align-items: center;
-  width: 2000px;
-  //height: 900px;
+  width: 100%;
   margin: 100px auto;
   h2 {
     display: flex;
     flex-direction: row;
-    font-size: clamp(40px, 4vw, 68px);
+    font-size: clamp(20px, 4vw, 40px);
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
     justify-content: space-between;
     color: #961111;
     margin-bottom: 50px;
+  }
+  .now-play {
+    margin-right: 90px;
+    &:hover {
+      color: #f2f677;
+      cursor: pointer;
+    }
+  }
+  .popular {
+    margin-left: 90px;
+    &:hover {
+      color: #f2f677;
+      cursor: pointer;
+    }
   }
 `;
