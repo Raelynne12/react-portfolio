@@ -35,8 +35,7 @@ const Container = styled.div`
   button {
     cursor: pointer;
     &:hover {
-      //transform: translateY(-5px);
-      color: #dade21;
+      transform: translateY(-2px);
     }
   }
   .back {
@@ -68,7 +67,7 @@ const Container = styled.div`
 `;
 const Head = styled.header`
   &:hover {
-    color: #af1414;
+    transform: translateY(-2px);
   }
   color: #ffffff;
   opacity: 1;

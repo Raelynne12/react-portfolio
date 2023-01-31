@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5528704d.css",
-    "main.js": "/static/js/main.53989349.js",
+    "main.js": "/static/js/main.238f6ce1.js",
     "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
     "static/media/증명사진.jpg": "/static/media/증명사진.7d837507a0cd3e65c377.jpg",
     "static/media/esfj.jpg": "/static/media/esfj.43433a7ad7713c36d1a0.jpg",
@@ -25,11 +25,11 @@
     "static/media/html.png": "/static/media/html.15f4bcc3d687c1d8924d.png",
     "index.html": "/index.html",
     "main.5528704d.css.map": "/static/css/main.5528704d.css.map",
-    "main.53989349.js.map": "/static/js/main.53989349.js.map",
+    "main.238f6ce1.js.map": "/static/js/main.238f6ce1.js.map",
     "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5528704d.css",
-    "static/js/main.53989349.js"
+    "static/js/main.238f6ce1.js"
   ]
 }
