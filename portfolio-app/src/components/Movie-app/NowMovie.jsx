@@ -16,7 +16,7 @@ export default function NowMovie({ id }) {
           </div>
           <div className="info">
             <div className="title-box">
-              <h3>{id.originatl_title}</h3>
+              <h3>{id.original_title}</h3>
               <p className="original-title">{id.original_title}</p>
               <p className="open-date">{id.release_date}</p>
             </div>
